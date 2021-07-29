@@ -11,7 +11,8 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
-
-![![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyson-basilio/)
+<p align="left">
+<a href="https://www.linkedin.com/in/alyson-basilio/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 [![Alyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlysonBasilio)](https://github.com/anuraghazra/github-readme-stats)
